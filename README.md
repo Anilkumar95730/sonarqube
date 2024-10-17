@@ -11,6 +11,7 @@
 
 This is command
                 Wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-9.2.0.49834.zip
+                
 	Install the unzip on sonarqube server and unzip by using unzip folder name command.
 
 	Change the owner permission by using chown sonarqube:sonarqube filepath/filename -R command.
